@@ -54,8 +54,5 @@ Tools & Libraries
 Machine Learning Intern – SkillCraft Technology  
 August 2025
 
- Submission Format
-Repository Name: `SCT_ML_Task2`  
-Notebook: Uploaded & committed  
-README: You’re reading it ✅
+
 
